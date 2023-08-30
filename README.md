@@ -18,7 +18,7 @@ Este proyecto analiza y visualiza los cambios en el nivel del mar desde 1880 has
 
 2. Clona el repositorio:
    ```bash
-   git clone [https://github.com/hidel21/boilerplate-sea-level-predictor]
+   git clone https://github.com/hidel21/boilerplate-sea-level-predictor
    ```
 
 3. Navega hasta el directorio del proyecto y ejecuta `main.py`:
@@ -50,6 +50,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para obt
 Si tienes comentarios, preguntas o sugerencias, no dudes en abrir un `issue` o contactarme directamente.
 
 ¡Gracias por visitar el proyecto y espero que sea útil! 🌟
-```
+
+--
 
 This is the boilerplate for the Sea Level Predictor project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor
